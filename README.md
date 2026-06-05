@@ -28,13 +28,13 @@ Cloud9 Wellness is a modern wellness and yoga platform designed to promote holis
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](sacreenshots/home.png)
 
 ### Services Page
-![Services](screenshots/services.png)
+![Services](sacreenshots/services.png)
 
 ### Appoitment Form 
-![Appt](screenshots/appt.png)
+![Appt](sacreenshots/appt.png)
 
 ### Login Page
-![login](screenshots/loginauth.png)
+![login](sacreenshots/loginauth.png)
